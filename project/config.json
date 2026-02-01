@@ -1,0 +1,11 @@
+{
+  "pet_x": 1487,
+  "pet_y": 365,
+  "volume": 0.5,
+  "sound_enabled": true,
+  "auto_walk": false,
+  "dialog_enabled": true,
+  "character": "firefly",
+  "animation_mode": "keep",
+  "scale": 0.75
+}
